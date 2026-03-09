@@ -1,3 +1,6 @@
+Disclaimer: This repository is a forked and collaborative project developed during my Front-End Web Developer Internship at BRIN (Badan Riset dan Inovasi Nasional). My primary responsibility was engineering the user interface and front-end architecture using Next.js and Tailwind CSS.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started -
